@@ -1,0 +1,12 @@
+html, body{
+    margin: 0;
+    padding: 0;
+}
+.body{
+    padding-top:2em;
+    padding-left: 8em;
+    padding-right: 8em;
+}
+#smHr{
+    width: 11.5em;
+}
